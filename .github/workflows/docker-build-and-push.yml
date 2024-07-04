@@ -39,4 +39,4 @@ jobs:
         with:
           push: true
           tags: ${{ env.TAG }}
-          file: Dockerfile
+          file: ubuntu-noble.Dockerfile
